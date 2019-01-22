@@ -33,13 +33,13 @@ print("\n")
 
 print("hello world")
 
-def addandmultiply(a,b):
+def add_and_multiply(a,b):
 	print(a+b)
 	print(a*b)
 
-addandmultiply(10,20)
-addandmultiply(2,3)
-addandmultiply(5,100)
+add_and_multiply(10,20)
+add_and_multiply(2,3)
+add_and_multiply(5,100)
 
 ################
 # In R
