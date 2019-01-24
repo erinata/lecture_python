@@ -30,12 +30,12 @@ for x in animals:
 	print(len(x))
 
 #numbers = [1,2,3,4,5,6,7,8,9,10]
-#numbers = range(1,11)
+numbers = range(1,11)
 #numbers = range(10)+1
 
 
 for i in numbers:
-	print(i**2)
+	print((i+1)**2)
 
 def complicated_function():
 	pass
@@ -44,6 +44,9 @@ def complicated_function():
 # complicated_function <- function() {
 	
 # }
+
+
+
 
 
 
